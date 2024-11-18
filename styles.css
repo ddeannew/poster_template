@@ -45,3 +45,12 @@ h1 {
     color: #FFFFFF;
     margin-bottom: 30px;
 }
+
+.info p {
+    font-size: 1em;
+    color: #FFFFFF;
+}
+
+.info strong {
+    color: #FCF05E; /* Western Gold */
+}
